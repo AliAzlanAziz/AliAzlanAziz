@@ -10,8 +10,7 @@
     <a href="https://stackoverflow.com/users/13270751/ali-azlan"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a>
 </p>
 
-##### My current resume:
-##### [Resume](https://drive.google.com/file/d/1dK19XbpkjAtxsB9rRwjxwRvzTltVAI6K/view?usp=sharing)
+##### My current resume: [Resume](https://drive.google.com/file/d/1dK19XbpkjAtxsB9rRwjxwRvzTltVAI6K/view?usp=sharing)
 
 ### Languages and Tools:
 
