@@ -1,3 +1,5 @@
+<a href="https://github.com/AliAzlanAziz"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
+
 ### Hi there, I'm Ali Azlan Aziz 👋
 
 ## I'm a Student and Developer!!
