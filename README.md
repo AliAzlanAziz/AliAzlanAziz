@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <p align="left">
-    <a href="#">
+<!--     <a href="#"> -->
         <img alt="NodeJS" src="https://img.shields.io/badge/Nodejs-Nodejs?style=for-the-badge&logo=node.js&color=303030"/>
         <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -47,7 +47,7 @@
         <img alt="ESLint" src="https://img.shields.io/badge/ESLint-ESLint?style=for-the-badge&logo=eslint&logoColor=fff&color=4B32C3"/>   
         <img alt="Powershell" src="https://img.shields.io/badge/Powershell-Powershell?style=for-the-badge&logo=powershell&logoColor=fff&color=5391FE"/>
         <img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>   
-    </a>
+<!--     </a> -->
 </p>
 
 ### GitHub Stats
