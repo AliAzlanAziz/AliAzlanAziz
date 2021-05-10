@@ -11,7 +11,7 @@
 </p>
 
 ##### My current resume:
-[Resume](https://drive.google.com/file/d/1dK19XbpkjAtxsB9rRwjxwRvzTltVAI6K/view?usp=sharing)
+##### [Resume](https://drive.google.com/file/d/1dK19XbpkjAtxsB9rRwjxwRvzTltVAI6K/view?usp=sharing)
 
 ### Languages and Tools:
 
