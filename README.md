@@ -1,5 +1,3 @@
-<a href="https://github.com/AliAzlanAziz"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=AliAzlanAziz&style=flat-square" width="125"/></a>
-
 ### Hi there, I'm Ali Azlan Aziz 👋
 
 ## I'm a Student and Developer!!
@@ -11,7 +9,9 @@
     <a href="https://github.com/AliAzlanAziz"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://stackoverflow.com/users/13270751/ali-azlan"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a>
 </p>
-<br />
+
+##### My current resume:
+[Resume](https://drive.google.com/file/d/1dK19XbpkjAtxsB9rRwjxwRvzTltVAI6K/view?usp=sharing)
 
 ### Languages and Tools:
 
@@ -49,8 +49,6 @@
         <img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>   
     </a>
 </p>
-
-<br>
 
 ### GitHub Stats
 
