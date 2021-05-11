@@ -32,7 +32,6 @@
         <img alt="GNU Bash" src="https://img.shields.io/badge/gnu%20bash-4EAA25?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
         <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
         <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
         <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
         <img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
@@ -42,7 +41,6 @@
         <!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-Redis?style=for-the-badge&logo=redis&color=1a191b"/> -->
         <!-- <img alt="Redux" src="https://img.shields.io/badge/Redux-Redux?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC"/> -->
         <!-- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/> -->
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=figma&logoColor=fff&color=F24E1E"/>
         <img alt="ESLint" src="https://img.shields.io/badge/ESLint-ESLint?style=for-the-badge&logo=eslint&logoColor=fff&color=4B32C3"/>   
         <img alt="Powershell" src="https://img.shields.io/badge/Powershell-Powershell?style=for-the-badge&logo=powershell&logoColor=fff&color=5391FE"/>
         <img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>   
