@@ -46,7 +46,3 @@
         <img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>   
 <!--     </a> -->
 </p>
-
-### GitHub Stats
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AliAzlanAziz&show_icons=true&hide_border=true" />
