@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Azlan Aziz 👋
 
-## I'm a Student and Developer!!
+## I'm a developer!!
 
 ### Connect with me:
 <p align="left">
